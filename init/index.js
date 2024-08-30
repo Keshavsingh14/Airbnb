@@ -23,3 +23,5 @@ const initDB = async () => {
 };
 
 initDB();
+
+//lazygit testing
